@@ -13,7 +13,7 @@
     <script src="js/header.js"></script>
     <title>로그인</title>
     <%int a = 0; %>
-    <%String b = "222";%>
+    <%String b = "22233";%>
 	
 </head>
 <body>
